@@ -1,5 +1,5 @@
 # Ip Address Analyzer
-This is an Window Form Application to helps Networking Computing students to analyze IPv4 addresses
+This is a Window Form Application that helps Networking Computing students to analyze IPv4 addresses
 
 ## Input
 * Host address
