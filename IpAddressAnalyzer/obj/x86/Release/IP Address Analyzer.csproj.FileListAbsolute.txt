@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\bin\Release\IP Address Analyzer.exe
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\bin\Release\IP Address Analyzer.pdb
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\obj\x86\Release\IPAddressAnalyzer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\obj\x86\Release\IP Address Analyzer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\obj\x86\Release\IP Address Analyzer.exe
+C:\Users\Administrator\Desktop\Ip-Address-Analyzer-master\IpAddressAnalyzer\obj\x86\Release\IP Address Analyzer.pdb
